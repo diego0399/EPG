@@ -1,0 +1,131 @@
+﻿<?xml version="1.0"?>
+<settings>
+   
+  <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml 
+  and http://webgrabplus.com/sites/default/files/downloads/Misc/Documented_Configuration_Files.zip -->
+   
+  <filename>guide.xml</filename>
+  <mode></mode>
+  <postprocess grab="y" run="n">rex</postprocess>
+  <user-agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36 Edg/79.0.309.71</user-agent>
+  <decryptkey site="mi.tv">9add8e87</decryptkey>
+  <license wg-username="diego0399" registered-email="diego03788@gmail.com" password="9add8e87" />
+  <logging>on</logging>
+  <retry time-out="5">4</retry>
+  <timespan>5</timespan>
+  <update>f</update>
+ 
+  <channel site="mi.tv" site_id="sv##sv_152b48d7-529c-4431-bb91-927423d7e7aa" update="i" xmltv_id="Canal2SV">SV - Canal 2</channel>
+  <channel site="mi.tv" site_id="sv##sv_732e0244-d940-4a53-a219-f4848e446475" update="i" xmltv_id="Canal4SV">SV - Canal 4</channel>
+  <channel site="mi.tv" site_id="sv##sv_a514f971-033a-45ff-bf7f-e5341b379b22" update="i" xmltv_id="TCS+">SV - VTV</channel>
+  <channel site="mi.tv" site_id="sv##sv_94957238-58dc-4f3a-9d60-f3be5a1b7acc" update="i" xmltv_id="Canal6SV">SV - Canal 6</channel>
+  <channel site="mi.tv" site_id="sv##sv_51b5d4f9-c207-4378-b232-18888243932b" update="i" xmltv_id="Canal10SV">SV - Canal 10</channel>
+  <channel site="mi.tv" site_id="sv##sv_8dedd5de-e368-4e59-aae2-e638c616b30c" update="i" xmltv_id="Canal12SV">SV - Canal 12</channel>
+  <channel site="mi.tv" site_id="sv##sv_96b6c07c-de04-41a4-bd0f-fd20ed99a04b" update="i" xmltv_id="Canal17SV">SV - Tabernaculo Biblico Bautista</channel>
+  <channel site="mi.tv" site_id="sv##sv_e3f4b602-944a-49e2-bd58-e3c706a26db6" update="i" xmltv_id="Canal19SV">SV - Canal 19</channel>
+  <channel site="mi.tv" site_id="sv##sv_a34a722c-659c-41b3-b9c9-fd6fdd68087c" update="i" xmltv_id="Canal21SV">SV - Canal 21</channel>
+  <channel site="mi.tv" site_id="sv##sv_b043e498-d573-42c8-ae7d-b593d5a07a93" update="i" xmltv_id="Canal23SV">SV - TVO Canal 23</channel>
+  <channel site="mi.tv" site_id="mx##mx_a6374991-3849-419a-81c0-94870b2509e2" update="i" xmltv_id="LasEstrellasMX">MX - Las Estrellas</channel>
+  <channel site="mi.tv" site_id="sv##sv_752f4f1a-bc61-4db3-883c-6a38bc9629dc" update="i" xmltv_id="LasEstrellasSV">SV - Las Estrellas</channel>
+  <channel site="mi.tv" site_id="mx##mx_61440ee1-58e5-4ebc-b229-ea0cf1480934" update="i" xmltv_id="Canal5MX">MX - Canal 5</channel>
+  <channel site="mi.tv" site_id="cl##cl_c1e93d0b-d016-468a-887e-a40944be190d" update="i" xmltv_id="CL - Unicable">CL - Unicable</channel>
+  <channel site="mi.tv" site_id="mx##mx_507cd849-bc5f-4edc-ba7d-54f574808d4a" update="i" xmltv_id="DepeliculaMX">MX - De Película</channel>
+  <channel site="mi.tv" site_id="mx##mx_91898218-02e6-49c2-9786-c1fc6390b8bc" update="i" xmltv_id="Univision">MX - Univision</channel>
+  <channel site="mi.tv" site_id="mx##mx_459530f4-7380-4be2-87cc-00f1804b852d" update="i" xmltv_id="TlnovelasMX">MX - TLNovelas</channel>
+  <channel site="mi.tv" site_id="mx##mx_750b2b34-9100-4558-981d-57b9d1dafd67" update="i" xmltv_id="BITME">MX - TIIN</channel>
+  <channel site="gatotv.com" site_id="distrito_comedia" update="i" xmltv_id="DistritoComedia">Canal Distrito Comedia</channel>
+  <channel site="mi.tv" site_id="mx##mx_e585bc2b-f263-4c49-8f81-a1851b407cbd" update="i" xmltv_id="ComedyCentralMX">MX - Comedy Central</channel>
+  <channel site="mi.tv" site_id="co##co_fd0ce7bc-fa36-453c-aedb-a6f49c81c29c" update="i" xmltv_id="PasionesCO">CO - Pasiones</channel>
+  <channel site="mi.tv" site_id="mx##mx_974544d5-2693-4748-a5e2-737494d35359" update="i" xmltv_id="TelemundoMX">MX - Telemundo</channel>
+  <channel site="mi.tv" site_id="co##co_2705da1c-bdf9-42e4-b265-c03db85ccb97" update="i" xmltv_id="Az MundoCO">CO - Az Mundo HD</channel>
+  <channel site="mi.tv" site_id="mx##mx_749eb80b-ea34-4a03-91de-9ac9c8165f0a" update="i" xmltv_id="Azteca13">MX - Azteca 13</channel>
+  <channel site="mi.tv" site_id="mx##mx_fbdb6d77-3072-4bb0-be55-a3ed5ca30b80" update="i" xmltv_id="AzcorazonMX">MX - Az Corazón</channel>
+  <channel site="mi.tv" site_id="mx##mx_11550c53-100e-42e8-9617-1e4c12e7b963" update="i" xmltv_id="Azteca7">MX - Azteca 7</channel>
+  <channel site="mi.tv" site_id="cl##cl_0b95150c-e05f-4712-b88f-827d90210e7e" update="i" xmltv_id="CL - Az Cinema">CL - Az Cinema</channel>
+  <channel site="mi.tv" site_id="co##co_0168dbdd-5f0b-4bd8-9dbe-89782ca88f81" update="i" xmltv_id="HOLATV">CO - HOLA TV HD</channel>
+  <channel site="mi.tv" site_id="mx##mx_5c241fe7-606d-4c1a-9c5b-8727de20a13f" update="i" xmltv_id="Mas Chic">MX - Más Chic</channel>
+  <channel site="mi.tv" site_id="mx##mx_578a8f3d-6e17-4008-a862-d546452be1da" update="i" xmltv_id="E!MX">MX - E!</channel>
+  <channel site="mi.tv" site_id="sv##sv_225df8ea-493e-4fe7-9f30-8a5cc73d6ca4" update="i" xmltv_id="LifetimeSV">SV - Lifetime</channel>
+  <channel site="mi.tv" site_id="mx##mx_9878ddbc-5f21-4427-bbf3-9cab4f2c7e82" update="i" xmltv_id="Discovery KidsMx">MX - Discovery Kids</channel>
+  <channel site="mi.tv" site_id="mx##mx_194b7b24-8ec4-4a97-9109-d1f0233840de" update="i" xmltv_id="DisneyJRMX">MX - Disney Junior</channel>
+  <channel site="mi.tv" site_id="mx##mx_ab88ff8c-4c74-4537-b204-4b6ea474bd7b" update="i" xmltv_id="NICKJRMX">MX - Nick Jr.</channel>
+  <channel site="mi.tv" site_id="pe##pe_bb5d484d-92b6-4065-8697-d460e0c649b6" update="i" xmltv_id="Nat Geo KidsPE">PE - Nat Geo Kids</channel>
+  <channel site="mi.tv" site_id="mx##mx_641d4afb-f7bf-43cd-8686-870abf560777" update="i" xmltv_id="DisneyChannelMX">MX - Disney Channel</channel>
+  <channel site="mi.tv" site_id="mx##mx_06898d17-9db6-4563-b4c3-4783dff13e4b" update="i" xmltv_id="DisneyXD">MX - Disney XD</channel>
+  <channel site="mi.tv" site_id="mx##mx_0ab2e64d-2a0d-4295-97de-d8f5f01c303c" update="i" xmltv_id="BoomerangMX">MX - Boomerang</channel>
+  <channel site="mi.tv" site_id="mx##mx_78b10949-8097-435f-a36b-9d5029ded9f8" update="i" xmltv_id="Cartoon NetworkMX">MX - Cartoon Network</channel>
+  <channel site="mi.tv" site_id="mx##mx_9ce8eb3f-ecc2-4ae0-b56a-3e6d54d64a05" update="i" xmltv_id="TooncastMX">MX - Tooncast</channel>
+  <channel site="mi.tv" site_id="mx##mx_99d348f8-f7e3-4759-85ea-d177bd18032b" update="i" xmltv_id="NickMX">MX - Nickelodeon</channel>
+  <channel site="mi.tv" site_id="mx##mx_0d10670b-1972-4df1-a860-aa539651a23a" update="i" xmltv_id="TeenNick">MX - Nick 2</channel>
+  <channel site="mi.tv" site_id="mx##mx_51b3b443-316c-4f51-b484-af538f02bb33" update="i" xmltv_id="elgourmetMX">MX - elgourmet</channel>
+  <channel site="mi.tv" site_id="br##br_cddcb691-0807-480e-a63b-82435ba50332" update="i" xmltv_id="BR - Food Network">BR - Food Network</channel>
+  <channel site="mi.tv" site_id="co##co_5fcc8181-2edf-417f-b94b-e8c7e321d7f4" update="i" xmltv_id="Discovery ScienceCO">CO - Discovery Science</channel>
+  <channel site="mi.tv" site_id="mx##mx_f39a7d80-115f-4bc9-8af2-4fab27810035" update="i" xmltv_id="AnimalPlanetMX">MX - Animal Planet</channel>
+  <channel site="mi.tv" site_id="mx##mx_5cc21dd9-b35c-4dae-93f4-e70e915d191a" update="i" xmltv_id="Discovery ChannelMX">MX - Discovery Channel</channel>
+  <channel site="mi.tv" site_id="mx##mx_9089c319-2baf-4374-aaaa-bbbae1733114" update="i" xmltv_id="DiscoveryHomeAndHealthMX">MX - Discovery Home &amp; Health</channel>
+  <channel site="mi.tv" site_id="co##co_89f02d89-e2fc-4f08-a2d1-657ffa3f1b7e" update="i" xmltv_id="CO - Discovery Turbo">CO - Discovery Turbo</channel>
+  <channel site="mi.tv" site_id="mx##mx_6848ca7e-a121-4047-ae18-64c1370bad59" update="i" xmltv_id="DiscoveryWorldMX">MX - Discovery World HD</channel>
+  <channel site="mi.tv" site_id="mx##mx_bf87c014-a17d-40d9-bd76-1c95f9d00e9b" update="i" xmltv_id="InvestigationMX">MX - Investigation Discovery</channel>
+  <channel site="mi.tv" site_id="ar##ar_2114c30f-acb8-41e1-b432-e3154ee2d6ce" update="i" xmltv_id="DiscoveryTheaterMX">AR - Discovery HD Theater</channel>
+  <channel site="mi.tv" site_id="co##co_a5c3fec3-f2d9-4885-95bc-c66ed66ed06d" update="i" xmltv_id="TLCCo">CO - TLC</channel>
+  <channel site="mi.tv" site_id="mx##mx_aac538bd-9033-4786-aebb-0c6d5e2bf644" update="i" xmltv_id="HistoryMX">MX - History</channel>
+  <channel site="mi.tv" site_id="co##co_78a1ccb0-c27b-480e-af17-7ddf5cd5520e" update="i" xmltv_id="History2CO">CO - H2</channel>
+  <channel site="mi.tv" site_id="mx##mx_0789f430-fb95-4fdb-bce8-5dfd819834b6" update="i" xmltv_id="National GeographicMX">MX - National Geographic</channel>
+  <channel site="mi.tv" site_id="co##co_9be38d7e-de73-4768-8a23-2968c95d9ab4" update="i" xmltv_id="Nat Geo WildCO">CO - Nat Geo Wild</channel>
+  <channel site="mi.tv" site_id="mx##mx_2b5a4a05-334a-4136-a9ce-3a17ebd4c4e3" update="i" xmltv_id="A&amp;E MundoMX">MX - A&amp;E Mundo</channel>
+  <channel site="mi.tv" site_id="mx##mx_c22ecf61-3021-4c7d-a54c-724740b84e4e" update="i" xmltv_id="Film&amp;ArtsMX">MX - Film&amp;Arts</channel>
+  <channel site="mi.tv" site_id="mx##mx_4b9a30fa-2973-4fd3-95ed-b69947d001d5" update="i" xmltv_id="SyfyMX">MX - Syfy</channel>
+  <channel site="mi.tv" site_id="mx##mx_70cae875-7317-48af-aa85-531d1c590a82" update="i" xmltv_id="Warner ChannelMX">MX - Warner Channel</channel>
+  <channel site="mi.tv" site_id="mx##mx_859ad994-2d24-4418-9630-7c11b3fb1245" update="i" xmltv_id="TCMMX">MX - TCM</channel>
+  <channel site="mi.tv" site_id="mx##mx_9ae843f5-48a1-4140-8ba4-fe8e1e80236c" update="i" xmltv_id="TBSMX">MX - TBS</channel>
+  <channel site="mi.tv" site_id="mx##mx_0a56cc13-171e-4bdd-94aa-7576b73cf85a" update="i" xmltv_id="Universal ChannelMX">MX - Universal Channel</channel>
+  <channel site="mi.tv" site_id="mx##mx_e85f9ba8-d00d-4787-b781-79e50f3f37ba" update="i" xmltv_id="Studio UniversalMX">MX - Studio Universal</channel>
+  <channel site="mi.tv" site_id="mx##mx_32797f7b-cd23-46e6-ab70-bb0556596089" update="i" xmltv_id="CinecanalMXHD">MX - Cinecanal HD</channel>
+  <channel site="mi.tv" site_id="mx##mx_5019939f-1b8b-4154-b171-992a5dcdc19d" update="i" xmltv_id="CinemaxMX">MX - Cinemax</channel>
+  <channel site="mi.tv" site_id="co##co_f462ea24-0bf8-48d0-a3eb-3cce27eea32f" update="i" xmltv_id="CinelatinoCO">CO - Cinelatino</channel>
+  <channel site="mi.tv" site_id="mx##mx_a03e8ce4-8e75-4512-8e56-a3ec76bda93d" update="i" xmltv_id="GoldenMX">MX - Golden</channel>
+  <channel site="gatotv.com" site_id="golden_plus" update="i" xmltv_id="Golden Plus">Canal Golden Plus</channel>
+  <channel site="mi.tv" site_id="co##co_e99e4f4d-218a-45e9-8127-231df6f14c05" update="i" xmltv_id="GoldenPremier">CO - Golden Premier HD</channel>
+  <channel site="mi.tv" site_id="mx##mx_8bfbcba7-bc0b-49c9-aa57-06c1d72ff304" update="i" xmltv_id="Golden Edge">MX - Golden Edge</channel>
+  <channel site="mi.tv" site_id="mx##mx_3b05bfc9-4441-4bdc-a7bf-3db9a14aff4d" update="i" xmltv_id="SpaceMX">MX - Space</channel>
+  <channel site="mi.tv" site_id="co##co_1ef9b8df-10e5-431b-ba92-a2ae8648b153" update="i" xmltv_id="Paramount ChannelCO">CO - Paramount Channel</channel>
+  <channel site="mi.tv" site_id="mx##mx_cd7d162d-bb3b-4276-821a-5a461a92336a" update="i" xmltv_id="SonyMX">MX - Sony</channel>
+  <channel site="mi.tv" site_id="mx##mx_cbd10d5c-8646-4b43-ab28-f6cc2d112072" update="i" xmltv_id="AMCMX">MX - AMC</channel>
+  <channel site="mi.tv" site_id="mx##mx_70c4a667-a5c9-4d40-9b31-6348002cdf94" update="i" xmltv_id="AXNMX">MX - AXN</channel>
+  <channel site="mi.tv" site_id="mx##mx_f0fbaaad-3e13-4475-ad14-7660f2a70aa8" update="i" xmltv_id="TNT HD">MX - TNT HD</channel>
+  <channel site="mi.tv" site_id="co##co_346ced66-5b76-400f-a4c0-7a2617f742d1" update="i" xmltv_id="TNT SeriesCO">CO - TNT Series</channel>
+  <channel site="mi.tv" site_id="mx##mx_ba342124-d8e4-43af-a765-7d528d1e453f" update="i" xmltv_id="HBOMX">MX - HBO</channel>
+  <channel site="mi.tv" site_id="mx##mx_d9c316c2-5615-42ec-9b5e-c09cfd1cbb4b" update="i" xmltv_id="HBO2MX">MX - HBO 2</channel>
+  <channel site="mi.tv" site_id="mx##mx_8b62b696-6e9b-4ee0-964b-8a6718863af3" update="i" xmltv_id="HBO+MX">MX - HBO Plus México</channel>
+  <channel site="mi.tv" site_id="mx##mx_d3d106e2-ee8f-4501-b7b1-aab5a0a408c4" update="i" xmltv_id="HBOFAMILYMX">MX - HBO Family</channel>
+  <channel site="mi.tv" site_id="co##co_7f1c25df-cdf4-40ea-b996-1f5d57b2582c" update="i" xmltv_id="HBO SignatureCO">CO - HBO Signature</channel>
+  <channel site="mi.tv" site_id="co##co_f67e1375-0133-4beb-8266-8f41c98a0af9" update="i" xmltv_id="HBOPOPMX">CO - max UP</channel>
+  <channel site="mi.tv" site_id="mx##mx_ff49f3e9-fd5e-4319-acf1-ca57aaf8a0ca" update="i" xmltv_id="HBOMUNDIMX">MX - Max</channel>
+  <channel site="mi.tv" site_id="mx##mx_3baadb3e-872e-41f6-975b-e0d5713a076f" update="i" xmltv_id="HBOXTREMEMX">MX - Max Prime México</channel>
+  <channel site="mi.tv" site_id="mx##mx_9f4e697f-ec4e-4553-a9bd-3daaeb0fd0e9" update="i" xmltv_id="StarChannelMX">MX - FOX</channel>
+  <channel site="mi.tv" site_id="mx##mx_6ec49b04-8fad-465c-8414-cb70258dd858" update="i" xmltv_id="StarLifeMX">MX - FOX Life</channel>
+  <channel site="mi.tv" site_id="mx##mx_5b85fac1-6e81-4b67-9cab-cd27ea7b3eed" update="i" xmltv_id="FXMX">MX - FX</channel>
+  <channel site="mi.tv" site_id="mx##mx_f8def3ec-ff12-4e35-a8d1-0cb0b48e9119" update="i" xmltv_id="FXMoviesMX">MX - FX Movies</channel>
+  <channel site="mi.tv" site_id="mx##mx_e3c850ef-f0e3-447f-b2c7-89282b8c20dc" update="i" xmltv_id="TelehitMX">MX - Telehit</channel>
+  <channel site="mi.tv" site_id="mx##mx_26f1a6fd-7053-476d-9c3a-73b62fcec9ce" update="i" xmltv_id="BandamaxMX">MX - Bandamax</channel>
+  <channel site="mi.tv" site_id="mx##mx_9a14fe24-6d0c-47ec-a488-ff2d59624ad0" update="i" xmltv_id="MTVMX">MX - MTV</channel>
+  <channel site="mi.tv" site_id="co##co_b63e577d-4e76-44dc-94c1-ae194d6ba75f" update="i" xmltv_id="MTVLiveCOHD">CO - MTV Live HD</channel>
+  <channel site="mi.tv" site_id="ar##ar_a81aa8db-e5ca-4440-a535-6de55aa45a1f" update="i" xmltv_id="MTVHITS">AR - MTV Hits</channel>
+  <channel site="mi.tv" site_id="co##co_4fc339ab-ddd3-4fc0-a73c-5dd3aeb61264" update="i" xmltv_id="MTV00S">CO - VH1</channel>
+  <channel site="mi.tv" site_id="co##co_237020f8-78c1-49ec-aed0-067b59e65f6c" update="i" xmltv_id="MTV80S">CO - VH1 Classic USA</channel>
+  <channel site="mi.tv" site_id="co##co_00b17ee6-aeb8-4c20-a498-b1f89fed8af5" update="i" xmltv_id="CO - Concert Channel">CO - Concert Channel</channel>
+  <channel site="mi.tv" site_id="co##co_390f9dcb-b41a-4a12-853f-ab7f12903d79" update="i" xmltv_id="Antena3CO">CO - Antena 3</channel>
+  <channel site="mi.tv" site_id="ar##ar_ca132581-b8ed-4e70-85c4-e725f8e037df" update="i" xmltv_id="ARAtreseries">AR - Atreseries</channel>
+  <channel site="mi.tv" site_id="mx##mx_9f59cab6-2a0c-4d8a-b143-3a25bf1d634a" update="i" xmltv_id="TVEMX">MX - TVE</channel>
+  <channel site="mi.tv" site_id="co##co_171de0ba-b404-4521-99b4-5368f8744614" update="i" xmltv_id="FoxNEWMX">CO - FOX News Internacional</channel>
+  <channel site="mi.tv" site_id="mx##mx_ed4eda80-70c6-466d-9939-2d597bb83b1e" update="i" xmltv_id="CNN en EspañolMX">MX - CNN en Español</channel>
+  <channel site="mi.tv" site_id="br##br_c982521a-a4d0-43bb-a71a-02adc4ce68ea" update="i" xmltv_id="CNN International HD">BR - CNN International HD</channel>
+  <channel site="mi.tv" site_id="sv##sv_3d5bca09-bb11-46d9-bf76-2973e1698a25" update="i" xmltv_id="telesurSV">SV - teleSUR</channel>
+  <channel site="mi.tv" site_id="mx##mx_ba392dda-0289-4664-a334-825318457de2" update="i" xmltv_id="ESPNMX">MX - ESPN</channel>
+  <channel site="mi.tv" site_id="mx##mx_3ca0e008-7f9e-4d32-a37e-f390e63bc213" update="i" xmltv_id="ESPN2MX">MX - ESPN 2</channel>
+  <channel site="mi.tv" site_id="mx##mx_2d2905ad-789d-49d6-8325-7ee9099b2ea2" update="i" xmltv_id="ESPN3MX">MX - ESPN 3</channel>
+  <channel site="mi.tv" site_id="co##co_f115fc66-1f2c-41e8-99be-e0d40948c6b4" update="i" xmltv_id="CO - ESPN +">CO - ESPN +</channel>
+  <channel site="mi.tv" site_id="mx##mx_0499f083-9bdd-42e6-976f-2076f2b25487" update="i" xmltv_id="FOX SportsMX">MX - FOX Sports</channel>
+  <channel site="mi.tv" site_id="mx##mx_da48f8f9-2d6d-4866-b113-210540f41fc7" update="i" xmltv_id="FOX Sports 2MX">MX - FOX Sports 2</channel>
+  <channel site="mi.tv" site_id="mx##mx_7f86530d-9380-4274-b1b0-b4b2a1d49c52" update="i" xmltv_id="FOX Sports 3MX">MX - FOX Sports 3</channel>
+</settings>
