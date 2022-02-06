@@ -12,7 +12,7 @@
   <license wg-username="diego0399" registered-email="diego03788@gmail.com" password="9add8e87" />
   <logging>on</logging>
   <retry time-out="5">4</retry>
-  <timespan>5</timespan>
+  <timespan>0</timespan>
   <update>f</update>
  
   <channel site="mi.tv" site_id="sv##sv_152b48d7-529c-4431-bb91-927423d7e7aa" update="i" xmltv_id="Canal2SV">SV - Canal 2</channel>
