@@ -3,345 +3,460 @@
 <channel id="AandE.mx">
 <display-name>A&amp;E MX HD</display-name>
 <icon src="https://i.ibb.co/3MxsHXW/MX-A-E-HD.png" />
+<icon src="https://i.ibb.co/3MxsHXW/MX-A-E-HD.png" />
 </channel>
 <channel id="AMC.mx">
+<icon src="https://i.ibb.co/pzBNpq0/AMC-HD.png" />
 <display-name>AMC OPCION 1</display-name>
 <icon src="https://i.ibb.co/pzBNpq0/AMC-HD.png" />
 </channel>
+<icon src="https://i.ibb.co/g9RVtDs/MX-Animal-Planet-HD.png" />
 <channel id="animalplanet.mx">
 <display-name>ANIMAL PLANET MX  HD</display-name>
 <icon src="https://i.ibb.co/g9RVtDs/MX-Animal-Planet-HD.png" />
+<icon src="https://i.ibb.co/zSpRwpT/MX-Antena-3.png" />
 </channel>
 <channel id="Antena3.mx">
 <display-name>ANTENA 3 INTERNACIONAL MX HD</display-name>
+<icon src="https://i.ibb.co/b2vYmM5/ES-A3-SERIES.png" />
 <icon src="https://i.ibb.co/zSpRwpT/MX-Antena-3.png" />
 </channel>
 <channel id="Atreseries.mx">
+<icon src="https://i.ibb.co/DbF9xHX/axn-endorsement-8-0-0.png" />
 <display-name>A3 SERIES FULL HD</display-name>
 <icon src="https://i.ibb.co/b2vYmM5/ES-A3-SERIES.png" />
 </channel>
+<icon src="https://i.ibb.co/sP1cYHV/MX-AZTECA-7-HD.png" />
 <channel id="AXN.mx">
 <display-name>AXN OPCION 1</display-name>
 <icon src="https://i.ibb.co/DbF9xHX/axn-endorsement-8-0-0.png" />
+<icon src="https://i.ibb.co/4pwdnYQ/MX-Azteca-Uno.png" />
 </channel>
 <channel id="Azteca7.mx">
 <display-name>AZTECA 7 OPCION 1</display-name>
+<icon src="https://i.ibb.co/gRymSms/MX-tiin.png" />
 <icon src="https://i.ibb.co/sP1cYHV/MX-AZTECA-7-HD.png" />
 </channel>
 <channel id="AztecaUno.mx">
+<icon src="https://i.ibb.co/Qb28mym/MX-CANAL-5-HD.png" />
 <display-name>AZTECA UNO OPCION 1</display-name>
 <icon src="https://i.ibb.co/4pwdnYQ/MX-Azteca-Uno.png" />
 </channel>
+<icon src="https://i.ibb.co/2Zf0dwq/logodhe.png" />
 <channel id="BitMe.mx">
 <display-name>BITME</display-name>
 <icon src="https://i.ibb.co/gRymSms/MX-tiin.png" />
+<icon src="https://i.ibb.co/vcvnpMQ/Canal-RCN-2019.png" />
 </channel>
 <channel id="Canal5.mx">
 <display-name>CANAL 5 OPCION 1</display-name>
+<icon src="https://i.ibb.co/TW7TC99/MX-Sony-HD.png" />
 <icon src="https://i.ibb.co/Qb28mym/MX-CANAL-5-HD.png" />
 </channel>
 <channel id="CanalDHE.mx">
+<icon src="https://i.ibb.co/k01XPFX/Cartoonito-Logo-2021-svg.png" />
 <display-name>DHE HD</display-name>
 <icon src="https://i.ibb.co/2Zf0dwq/logodhe.png" />
 </channel>
+<icon src="https://i.ibb.co/f4FMGXw/MX-CARTOON-NETWORK-HD.png" />
 <channel id="CanalRCNTELENOVELAS.co">
 <display-name>RCN OPCION 1</display-name>
 <icon src="https://i.ibb.co/vcvnpMQ/Canal-RCN-2019.png" />
+<icon src="https://i.ibb.co/XDvJXxF/MX-CINECANAL-HD.png" />
 </channel>
 <channel id="CanalSony.mx">
 <display-name>SONY CHANNEL OPCION 1</display-name>
+<icon src="https://i.ibb.co/100D5Ng/MX-AZ-Cinema-HD.png" />
 <icon src="https://i.ibb.co/TW7TC99/MX-Sony-HD.png" />
 </channel>
 <channel id="Cartoonito.mx">
+<icon src="https://i.ibb.co/f9wXJjs/MX-CINEMAX-HD.png" />
 <display-name>CARTOONITO FULL HD</display-name>
 <icon src="https://i.ibb.co/k01XPFX/Cartoonito-Logo-2021-svg.png" />
 </channel>
+<icon src="https://clarovideocdn7.clarovideo.net/PELICULAS/CLAROCINEMA/EXPORTACION_WEB/SS/CLAROCINEMA_t-290x163.png" />
 <channel id="CartoonNetwork.mx">
 <display-name>CARTOON NETWORK OPCION 1</display-name>
 <icon src="https://i.ibb.co/f4FMGXw/MX-CARTOON-NETWORK-HD.png" />
+<icon src="https://i.ibb.co/LpQvWhG/MX-AZ-Click-B1.png" />
 </channel>
 <channel id="Cinecanal.mx">
 <display-name>CINECANAL FHD DUAL AUDIO</display-name>
+<icon src="https://i.ibb.co/0Vhj6F9/MX-CNN-en-Espa-ol.png" />
 <icon src="https://i.ibb.co/XDvJXxF/MX-CINECANAL-HD.png" />
 </channel>
 <channel id="Cinema.mx">
+<icon src="https://i.ibb.co/0Vhj6F9/MX-CNN-en-Espa-ol.png" />
 <display-name>AZ CINEMA OPCION 1</display-name>
 <icon src="https://i.ibb.co/100D5Ng/MX-AZ-Cinema-HD.png" />
 </channel>
+<icon src="https://i.ibb.co/2jHCGkQ/CO-COMEDY-CENTRAL-HD.png" />
 <channel id="Cinemax.mx">
 <display-name>CINEMAX MX  HD</display-name>
 <icon src="https://i.ibb.co/f9wXJjs/MX-CINEMAX-HD.png" />
+<icon src="https://i.ibb.co/gdskB6W/MX-Azteca-Corazon-HD.png" />
 </channel>
 <channel id="ClaroCinema.co">
 <display-name>CLARO CINEMA OPCION 1</display-name>
+<icon src="https://i.ibb.co/zZhg7Hn/MX-Depelicula-Plus.png" />
 <icon src="https://clarovideocdn7.clarovideo.net/PELICULAS/CLAROCINEMA/EXPORTACION_WEB/SS/CLAROCINEMA_t-290x163.png" />
 </channel>
 <channel id="Clic.mx">
+<icon src="https://i.ibb.co/DWD5vbd/MX-Discovery-Channel-HD.png" />
 <display-name>AZ CLIC OPCION 1</display-name>
 <icon src="https://i.ibb.co/LpQvWhG/MX-AZ-Click-B1.png" />
 </channel>
+<icon src="https://i.ibb.co/183jJHp/US-Discovery-Familia.png" />
 <channel id="CNN.es">
 <display-name>CNN CHILE</display-name>
 <icon src="https://i.ibb.co/0Vhj6F9/MX-CNN-en-Espa-ol.png" />
+<icon src="https://i.ibb.co/GPf27Rr/CO-DISCOVERY-HOME-HEALTH-HD.png" />
 </channel>
 <channel id="CNNInternational(English).mx">
 <display-name>CNN INTERNACIONAL</display-name>
+<icon src="https://i.ibb.co/34n4Srj/MX-DISCOVERY-KIDS-HD.png" />
 <icon src="https://i.ibb.co/0Vhj6F9/MX-CNN-en-Espa-ol.png" />
 </channel>
 <channel id="ComedyCentral.mx">
+<icon src="https://i.ibb.co/VCyTvgn/1280px-Discovery-Science-Logo-2012-svg.png" />
 <display-name>COMEDY CENTRAL FULL HD</display-name>
 <icon src="https://i.ibb.co/2jHCGkQ/CO-COMEDY-CENTRAL-HD.png" />
 </channel>
+<icon src="https://i.ibb.co/Wvgqf9S/CO-DISCOVERY-THEATER-HD.png" />
 <channel id="Corazon.mx">
 <display-name>AZ CORAZON OPCION 1</display-name>
 <icon src="https://i.ibb.co/gdskB6W/MX-Azteca-Corazon-HD.png" />
+<icon src="https://i.ibb.co/4TGv7X5/MX-DISCOVERY-TURBO-HD.png" />
 </channel>
 <channel id="DePeliculaPlus.mx">
 <display-name>DE PELICULA PLUS OPCION 1</display-name>
+<icon src="https://i.ibb.co/QCyKh5B/CO-DISCOVERY-WORLD-HD.png" />
 <icon src="https://i.ibb.co/zZhg7Hn/MX-Depelicula-Plus.png" />
 </channel>
 <channel id="DiscoveryChannel.mx">
+<icon src="https://i.ibb.co/dJV9TWR/CO-DISNEY-HD.png" />
 <display-name>DISCOVERY CHANNEL OPCION 1</display-name>
 <icon src="https://i.ibb.co/DWD5vbd/MX-Discovery-Channel-HD.png" />
 </channel>
+<icon src="https://i.ibb.co/r5GFjFK/MX-DISNEY-JR-HD.png" />
 <channel id="DiscoveryFamilia(Spanish).us">
 <display-name>DISCOVERY FAMILIA OPCION 1</display-name>
 <icon src="https://i.ibb.co/183jJHp/US-Discovery-Familia.png" />
+<icon src="https://i.ibb.co/Ch1LWCx/distrito-comedia.png" />
 </channel>
 <channel id="DiscoveryHomeandHealth.mx">
 <display-name>DISCOVERY HOME &amp; HEALTH OPCION 1</display-name>
+<icon src="https://i.ibb.co/cTv7fzZ/dw.png" />
 <icon src="https://i.ibb.co/GPf27Rr/CO-DISCOVERY-HOME-HEALTH-HD.png" />
 </channel>
 <channel id="DiscoveryKids.mx">
+<icon src="https://i.ibb.co/hMD4Vyb/MX-E-HD.png" />
 <display-name>DISCOVERY KIDS OPCION 1</display-name>
 <icon src="https://i.ibb.co/34n4Srj/MX-DISCOVERY-KIDS-HD.png" />
 </channel>
+<icon src="https://i.ibb.co/3CdK8DZ/MX-El-Gourmet-HD.png" />
 <channel id="DiscoveryScience.mx">
 <display-name>DISCOVERY SCIENCE FHD DUAL AUDIO</display-name>
 <icon src="https://i.ibb.co/VCyTvgn/1280px-Discovery-Science-Logo-2012-svg.png" />
+<icon src="https://i.ibb.co/XtTtSP4/DF3k-Mt7-Xg-AAcc-Bu.png" />
 </channel>
 <channel id="DiscoveryTheater.mx">
 <display-name>DISCOVERY THEATER MEX HD</display-name>
+<icon src="https://i.ibb.co/sq6ZzcC/MX-ESPN-HD.png" />
 <icon src="https://i.ibb.co/Wvgqf9S/CO-DISCOVERY-THEATER-HD.png" />
 </channel>
 <channel id="DiscoveryTurbo.mx">
+<icon src="https://i.ibb.co/3z8sPdS/MX-ESPN-2-HD.png" />
 <display-name>DISCOVERY TURBO OPCION 1</display-name>
 <icon src="https://i.ibb.co/4TGv7X5/MX-DISCOVERY-TURBO-HD.png" />
 </channel>
+<icon src="https://i.ibb.co/x8LXtmZ/MX-ESPN-3-HD.png" />
 <channel id="DiscoveryWorld.mx">
 <display-name>DISCOVERY WORLD OPCION 1</display-name>
 <icon src="https://i.ibb.co/QCyKh5B/CO-DISCOVERY-WORLD-HD.png" />
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1280px-ESPN_4_logo.svg.png" />
 </channel>
 <channel id="DisneyChannel.mx">
 <display-name>DISNEY CHANNEL OPCION 1</display-name>
+<icon src="https://i.ibb.co/r6L6zjY/MX-ESPN-PLUS.png" />
 <icon src="https://i.ibb.co/dJV9TWR/CO-DISNEY-HD.png" />
 </channel>
 <channel id="DisneyJunior.mx">
+<icon src="https://i.ibb.co/nwcLtns/MX-Food-Network-HD.png" />
 <display-name>DISNEY JUNIOR OPCION 1</display-name>
 <icon src="https://i.ibb.co/r5GFjFK/MX-DISNEY-JR-HD.png" />
 </channel>
+<icon src="https://i.ibb.co/vBJhRFJ/MX-FOX-SPORTS-HD.png" />
 <channel id="DistritoComedia.mx">
 <display-name>DISTRITO COMEDIA OPCION 1</display-name>
 <icon src="https://i.ibb.co/Ch1LWCx/distrito-comedia.png" />
+<icon src="https://i.ibb.co/GcnTkJn/MX-FOX-SPORTS-2-HD.png" />
 </channel>
 <channel id="DW(English).mx">
 <display-name>DW MX HD</display-name>
+<icon src="https://i.ibb.co/6DQJCX1/MX-FOX-SPORTS-3-HD.png" />
 <icon src="https://i.ibb.co/cTv7fzZ/dw.png" />
 </channel>
 <channel id="EEntertainmentTV.mx">
+<icon src="https://i.ibb.co/6PnvTNJ/US-GALAVISION.png" />
 <display-name>E! FULL HD</display-name>
 <icon src="https://i.ibb.co/hMD4Vyb/MX-E-HD.png" />
 </channel>
+<icon src="https://i.ibb.co/1m79SLL/Glitz-2011.png" />
 <channel id="ElGourmet.mx">
 <display-name>EL GOURMET MX HD</display-name>
 <icon src="https://i.ibb.co/3CdK8DZ/MX-El-Gourmet-HD.png" />
+<icon src="https://i.ibb.co/BVYHZ82/CO-GOLDEN-HD.png" />
 </channel>
 <channel id="ElTrece.ar">
 <display-name>CANAL TRECE OPCION 1</display-name>
+<icon src="https://i.ibb.co/17vz8qS/MX-GOLDEN-EDGE.png" />
 <icon src="https://i.ibb.co/XtTtSP4/DF3k-Mt7-Xg-AAcc-Bu.png" />
 </channel>
 <channel id="ESPN.mx">
+<icon src="https://raw.githubusercontent.com/diego0399/Logos/main/golden_plus.png" />
 <display-name>ESPN 1 LATINO</display-name>
 <icon src="https://i.ibb.co/sq6ZzcC/MX-ESPN-HD.png" />
 </channel>
+<icon src="https://i.ibb.co/KypjbFc/MX-GOLDEN-PREMIER-HD.png" />
 <channel id="ESPN2.mx">
 <display-name>ESPN 2 MEXICO</display-name>
 <icon src="https://i.ibb.co/3z8sPdS/MX-ESPN-2-HD.png" />
+<icon src="https://i.ibb.co/wRBLy2Y/MX-HBO-HD.png" />
 </channel>
 <channel id="ESPN3.co">
 <display-name>ESPN 3 MX HD</display-name>
+<icon src="https://i.ibb.co/CJyjNr0/MX-HBO-2-HD.png" />
 <icon src="https://i.ibb.co/x8LXtmZ/MX-ESPN-3-HD.png" />
 </channel>
 <channel id="ESPN4.mx">
+<icon src="https://i.ibb.co/LNNLR64/MX-HBO-Family-HD.png" />
 <display-name>ESPN 4 COLOMBIA</display-name>
 <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1280px-ESPN_4_logo.svg.png" />
 </channel>
+<icon src="https://i.ibb.co/SJVDxDS/MX-HBO-Mundi-HD.png" />
 <channel id="ESPNEXTRA.mx">
 <display-name>ESPN EXTRA MX HD</display-name>
 <icon src="https://i.ibb.co/r6L6zjY/MX-ESPN-PLUS.png" />
+<icon src="https://i.ibb.co/GRCjM47/MX-HBO-Plus-HD.png" />
 </channel>
 <channel id="FoodNetwork.mx">
 <display-name>FOOD NETWORK MX HD</display-name>
+<icon src="https://i.ibb.co/k8zXt5v/MX-HBO-POP-HD.png" />
 <icon src="https://i.ibb.co/nwcLtns/MX-Food-Network-HD.png" />
 </channel>
 <channel id="FOXSPORTS.co">
+<icon src="https://i.ibb.co/tKJWvGj/MX-HBO-Signature-HD.png" />
 <display-name>FOX SPORTS MEXICO</display-name>
 <icon src="https://i.ibb.co/vBJhRFJ/MX-FOX-SPORTS-HD.png" />
 </channel>
+<icon src="https://i.ibb.co/19HCrKt/MX-HBO-XTREME-HD.png" />
 <channel id="FoxSports2(ConoNorte).mx">
 <display-name>FOX SPORTS 2 MEXICO</display-name>
 <icon src="https://i.ibb.co/GcnTkJn/MX-FOX-SPORTS-2-HD.png" />
+<icon src="https://i.ibb.co/MNyNWXP/MX-HGTV-HD.png" />
 </channel>
 <channel id="FoxSports3.mx">
 <display-name>FOX SPORTS 3 MEXICO</display-name>
+<icon src="https://i.ibb.co/LC2hKDj/large-History-2021-png-39a3e22fd04ab676a9245d0f0ec69ae3.webp" />
 <icon src="https://i.ibb.co/6DQJCX1/MX-FOX-SPORTS-3-HD.png" />
 </channel>
 <channel id="GalavisionCableNetwork(Spanish).us">
+<icon src="https://i.ibb.co/f1qT27C/History2-logo-2022-svg.png" />
 <display-name>USA: GALAVISION EAST HD</display-name>
 <icon src="https://i.ibb.co/6PnvTNJ/US-GALAVISION.png" />
 </channel>
+<icon src="https://i.ibb.co/yS0pFmW/MX-HOLA-TV-HD.png" />
 <channel id="Glitz.mx">
 <display-name>GLITZ SD</display-name>
 <icon src="https://i.ibb.co/1m79SLL/Glitz-2011.png" />
+<icon src="https://i.ibb.co/2Y1gjxp/MX-Imagen-TV-HD.png" />
 </channel>
 <channel id="Golden.mx">
 <display-name>GOLDEN OPCION 1</display-name>
+<icon src="https://i.ibb.co/XfP2W8S/MX-Discovery-ID.png" />
 <icon src="https://i.ibb.co/BVYHZ82/CO-GOLDEN-HD.png" />
 </channel>
 <channel id="GoldenEdge.mx">
+<icon src="https://i.ibb.co/P4j1Q4x/s116151-dark-360w-270h.png" />
 <display-name>GOLDEN EDGE OPCION 1</display-name>
 <icon src="https://i.ibb.co/17vz8qS/MX-GOLDEN-EDGE.png" />
 </channel>
+<icon src="https://i.ibb.co/0X35h5K/lasestrellasinternacional.png" />
 <channel id="GOLDENPLUS.mx">
 <display-name>GOLDEN PLUS OPCION 1</display-name>
 <icon src="https://raw.githubusercontent.com/diego0399/Logos/main/golden_plus.png" />
+<icon src="https://i.ibb.co/fr8DCJb/MX-Life-Time-HD.png" />
 </channel>
 <channel id="GoldenPremier.mx">
 <display-name>GOLDEN PREMIER OPCION 1</display-name>
+<icon src="https://i.ibb.co/ZmzbWDP/CLARO2-MASCHIC-HD.png" />
 <icon src="https://i.ibb.co/KypjbFc/MX-GOLDEN-PREMIER-HD.png" />
 </channel>
 <channel id="HBO.mx">
+<icon src="https://i.ibb.co/CWztb6v/CO-MTV-HD.png" />
 <display-name>HBO OPCION 1</display-name>
 <icon src="https://i.ibb.co/wRBLy2Y/MX-HBO-HD.png" />
 </channel>
+<icon src="https://i.ibb.co/BLxRqpz/MX-VH1-HD.png" />
 <channel id="HBO2.mx">
 <display-name>HBO 2 OPCION 1</display-name>
 <icon src="https://i.ibb.co/CJyjNr0/MX-HBO-2-HD.png" />
+<icon src="https://i.ibb.co/ZXPvxCD/MX-VH1-Classic-HD.png" />
 </channel>
 <channel id="HBOFamily.mx">
 <display-name>HBO FAMILY OPCION 2</display-name>
+<icon src="https://i.ibb.co/6Fw0XHz/CO-MTV-HITS.png" />
 <icon src="https://i.ibb.co/LNNLR64/MX-HBO-Family-HD.png" />
 </channel>
 <channel id="HBOMundi.mx">
+<icon src="https://i.ibb.co/BVf9wrB/CO-MTV-LIVE-HD.png" />
 <display-name>HBO MUNDI OPCION 1</display-name>
 <icon src="https://i.ibb.co/SJVDxDS/MX-HBO-Mundi-HD.png" />
 </channel>
+<icon src="https://i.ibb.co/nwJw5nf/MX-AZ-Mundo.png" />
 <channel id="HBOPlus.mx">
 <display-name>HBO + OPCION 1</display-name>
 <icon src="https://i.ibb.co/GRCjM47/MX-HBO-Plus-HD.png" />
+<icon src="https://i.ibb.co/94Hd0FW/CO-NATGEO-WILD-HD.png" />
 </channel>
 <channel id="HBOPOP.mx">
 <display-name>HBO POP OPCION 2</display-name>
+<icon src="https://i.ibb.co/Ss8hMHv/MX-Nat-Geo-HD-Cultural.png" />
 <icon src="https://i.ibb.co/k8zXt5v/MX-HBO-POP-HD.png" />
 </channel>
 <channel id="HBOSignature.mx">
+<icon src="https://i.ibb.co/64707Qw/MX-Nick-HD.png" />
 <display-name>HBO SIGNATURE OPCION 1</display-name>
 <icon src="https://i.ibb.co/tKJWvGj/MX-HBO-Signature-HD.png" />
 </channel>
+<icon src="https://i.ibb.co/TBDN4Cw/MX-NICK-JR-HD.png" />
 <channel id="HBOXtreme.mx">
 <display-name>HBO XTREME OPCION 1</display-name>
 <icon src="https://i.ibb.co/19HCrKt/MX-HBO-XTREME-HD.png" />
+<icon src="https://i.ibb.co/NgRgYy7/Claro-PARAMOUNT-HD.png" />
 </channel>
 <channel id="HGTV.mx">
 <display-name>HGTV OPCION 1</display-name>
+<icon src="https://i.ibb.co/QFwMRV0/CO-PASIONES-HD.png" />
 <icon src="https://i.ibb.co/MNyNWXP/MX-HGTV-HD.png" />
 </channel>
 <channel id="History.mx">
+<icon src="https://i.ibb.co/WBcmL0x/CO-SPACE-HD.png" />
 <display-name>HISTORY CHANNEL FHD DUAL AUDIO</display-name>
 <icon src="https://i.ibb.co/LC2hKDj/large-History-2021-png-39a3e22fd04ab676a9245d0f0ec69ae3.webp" />
 </channel>
+<icon src="https://i.ibb.co/1zhZHFq/s75423-dark-360w-270h.png" />
 <channel id="History2.mx">
 <display-name>HISTORY 2 OPCION 1</display-name>
 <icon src="https://i.ibb.co/f1qT27C/History2-logo-2022-svg.png" />
+<icon src="https://i.ibb.co/9szgkKm/CO-STUDIO-UNIVERSAL.png" />
 </channel>
 <channel id="HOLATV.mx">
 <display-name>HOLA TV HD</display-name>
+<icon src="https://i.ibb.co/y68NBby/MX-Sy-Fy-HD.png" />
 <icon src="https://i.ibb.co/yS0pFmW/MX-HOLA-TV-HD.png" />
 </channel>
 <channel id="ImagenTV.mx">
+<icon src="https://i.ibb.co/MZdMmZ3/MX-TBS.png" />
 <display-name>IMAGEN TV</display-name>
 <icon src="https://i.ibb.co/2Y1gjxp/MX-Imagen-TV-HD.png" />
 </channel>
+<icon src="https://i.ibb.co/12wR9bF/Claro-TCM.png" />
 <channel id="InvestigationDiscovery(English).mx">
 <display-name>DISCOVERY ID MX HD</display-name>
 <icon src="https://i.ibb.co/XfP2W8S/MX-Discovery-ID.png" />
+<icon src="https://i.ibb.co/9tFpwbZ/MX-NICK-2-HD.png" />
 </channel>
 <channel id="LasEstrellas.mx">
 <display-name>LAS ESTRELLAS OPCION 1</display-name>
+<icon src="https://i.ibb.co/mvHRG2P/MX-Telehit-HD.png" />
 <icon src="https://i.ibb.co/P4j1Q4x/s116151-dark-360w-270h.png" />
 </channel>
 <channel id="LasEstrellasInternacional.co">
+<icon src="https://i.ibb.co/SKp4Hq6/USA-Telemundo-Los-Angeles.png" />
 <display-name>LAS ESTRELLAS OPCION 2</display-name>
 <icon src="https://i.ibb.co/0X35h5K/lasestrellasinternacional.png" />
 </channel>
+<icon src="https://i.ibb.co/Hx974YJ/MX-Telemundo.png" />
 <channel id="Lifetime.mx">
 <display-name>LIFETIME MX HD</display-name>
 <icon src="https://i.ibb.co/fr8DCJb/MX-Life-Time-HD.png" />
+<icon src="https://i.ibb.co/8m9xhDY/Venezuela-Telesur.png" />
 </channel>
 <channel id="MasChic.mx">
 <display-name>MAS CHIC FULL HD</display-name>
+<icon src="https://i.ibb.co/cDWknL8/CO-TLC.png" />
 <icon src="https://i.ibb.co/ZmzbWDP/CLARO2-MASCHIC-HD.png" />
 </channel>
 <channel id="MTV.mx">
+<icon src="https://i.ibb.co/2WSh2Lt/CO-TLNOVELAS.png" />
 <display-name>MTV FHD DUAL AUDIO</display-name>
 <icon src="https://i.ibb.co/CWztb6v/CO-MTV-HD.png" />
 </channel>
+<icon src="https://i.ibb.co/jfQrdTC/MX-TNT-HD.png" />
 <channel id="MTV00s.mx">
 <display-name>MTV 00s HD</display-name>
 <icon src="https://i.ibb.co/BLxRqpz/MX-VH1-HD.png" />
+<icon src="https://i.ibb.co/pbkpMzM/CO-TNT-SERIES-HD.png" />
 </channel>
 <channel id="MTV80s.mx">
 <display-name>MTV 80 SD</display-name>
+<icon src="https://i.ibb.co/dcfq16f/MX-Tooncast-HD-Infantil.png" />
 <icon src="https://i.ibb.co/ZXPvxCD/MX-VH1-Classic-HD.png" />
 </channel>
 <channel id="MTVHits(English).mx">
+<icon src="https://i.ibb.co/VHvbLdp/TUDN-Logo-svg.png" />
 <display-name>MTV HITS</display-name>
 <icon src="https://i.ibb.co/6Fw0XHz/CO-MTV-HITS.png" />
 </channel>
+<icon src="https://i.ibb.co/8XmzDfB/MX-TVE.png" />
 <channel id="MTVLive(English).mx">
 <display-name>MTV LIVE HD</display-name>
 <icon src="https://i.ibb.co/BVf9wrB/CO-MTV-LIVE-HD.png" />
+<icon src="https://i.ibb.co/586ssrD/MX-UNICABLE-HD.png" />
 </channel>
 <channel id="Mundo.mx">
 <display-name>AZ MUNDO HD</display-name>
+<icon src="https://i.ibb.co/4pLqPP5/UniMas.png" />
 <icon src="https://i.ibb.co/nwJw5nf/MX-AZ-Mundo.png" />
 </channel>
 <channel id="NATGEOWILD(src01).es">
+<icon src="https://raw.githubusercontent.com/diego0399/Logos/main/universal_cinema.png" />
 <display-name>NATGEO WILD OPCION 1</display-name>
 <icon src="https://i.ibb.co/94Hd0FW/CO-NATGEO-WILD-HD.png" />
 </channel>
+<icon src="https://raw.githubusercontent.com/diego0399/Logos/main/universal_crime.png" />
 <channel id="NationalGeographic.mx">
 <display-name>NATGEO OPCION 1</display-name>
 <icon src="https://i.ibb.co/Ss8hMHv/MX-Nat-Geo-HD-Cultural.png" />
+<icon src="https://raw.githubusercontent.com/diego0399/Logos/main/universal_premiere.png" />
 </channel>
 <channel id="Nick.mx">
 <display-name>NICK OPCION 1</display-name>
+<icon src="https://raw.githubusercontent.com/diego0399/Logos/main/universal_reality.png" />
 <icon src="https://i.ibb.co/64707Qw/MX-Nick-HD.png" />
 </channel>
 <channel id="NickJr.mx">
+<icon src="https://i.ibb.co/sFD7Mc0/CO-UNIVERSAL-CHANNEL-HD.png" />
 <display-name>NICK JR OPCION 1</display-name>
 <icon src="https://i.ibb.co/TBDN4Cw/MX-NICK-JR-HD.png" />
 </channel>
+<icon src="https://i.ibb.co/W2bsLMW/Lat-Usa-Univision-LA.png" />
 <channel id="ParamountNetwork.mx">
 <display-name>PARAMOUNT NETWORK UHD DUAL AUDIO</display-name>
 <icon src="https://i.ibb.co/NgRgYy7/Claro-PARAMOUNT-HD.png" />
+<icon src="https://i.ibb.co/W2bsLMW/Lat-Usa-Univision-LA.png" />
 </channel>
 <channel id="PasionesTV.co">
 <display-name>PASIONES HD</display-name>
+<icon src="https://i.ibb.co/jwJ0KXY/Univision-Tlnovelas.png" />
 <icon src="https://i.ibb.co/QFwMRV0/CO-PASIONES-HD.png" />
 </channel>
 <channel id="Space.mx">
+<icon src="https://i.ibb.co/xFS6Rm9/MX-WARNER-HD.png" />
 <display-name>SPACE FHD DUAL AUDIO</display-name>
+<channel id="TCS+"><display-name lang="es">SV - TCS +</display-name><icon src="https://i.ibb.co/wWHjvCV/tcsplus.png" /></channel>
 <icon src="https://i.ibb.co/WBcmL0x/CO-SPACE-HD.png" />
 </channel>
 <channel id="StarChannel.mx">
